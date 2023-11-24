@@ -1,10 +1,10 @@
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - *Bitfit part 2*
 
-Submitted by: **Your Name Here**
+Submitted by: **bitfit part 2**
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+**bitifit part 2** is a health metrics app that allows users to track calories and calculate avg, min max of total calories
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
